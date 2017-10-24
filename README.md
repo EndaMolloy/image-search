@@ -14,7 +14,7 @@ http://localhost:3000/api/latest
 ```
 
 ## Example query output:
-
+```js
 [{
 "title": "File:A view of Antarctica's ice sheet and mountains.jpeg - Wikimedia ...",
 "url": "https://commons.wikimedia.org/wiki/File:A_view_of_Antarctica%E2%80%99s_ice_sheet_and_mountains.jpeg",
